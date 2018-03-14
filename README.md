@@ -1,6 +1,10 @@
 # slack-etiquette
 
-1. Use `@here` and `@channel` with caution; especiallyl in large rooms like `#general`.
+1. Use `@here` and `@channel` sparingly. Avoid them completely in large rooms like `#general`.
+
+Does your message really need to notify everyone immediately? Probably not, unless it's an emergency.
+
+Otherwise, maybe an email is more appropriate.
 
 2. Invite people to a channel with `/invite @user`, not `@` mentioning them in chat.
 
