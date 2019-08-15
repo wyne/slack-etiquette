@@ -18,3 +18,7 @@ After typing "hey", keep typing your message instead of just pressing enter.  Ot
 ## 4. Use email for topics that warrant long-form discussion.
 
 Slack is great for quick replies, however it can easily be abused.  There's something to be said for long, well thought-out prose especially when thinking about complex topics.  The sheer process of drafting an email in a structured format may answer your own question without having to loop anyone else in.
+
+## 5. Use threads if need to have a discussion on a particular topic.
+
+Since slack, by default, notifies everyone in the channel for every message sent to that channel, it's better to continue discussions about a message/topic in threads because then people can selectively (un)follow them.
